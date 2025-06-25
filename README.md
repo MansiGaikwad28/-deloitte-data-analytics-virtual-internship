@@ -18,7 +18,7 @@ This repository contains my work as part of the **Deloitte Data Analytics Virtua
 
 ---
 
-## 🧠 Skills Used
+## 🧠 Skills Practiced
 - Data Cleaning  
 - Excel Logic Functions  
 - Tableau Dashboarding  
